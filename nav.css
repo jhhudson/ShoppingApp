@@ -1,0 +1,19 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li a{
+    display: block;
+    width: 100px;
+    color: #000;
+    background-color: gray;
+    padding: 16px;
+}
+
+li a:hover{
+    background-color:blue;
+    color: yellow;
+
+}
